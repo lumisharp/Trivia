@@ -11,7 +11,7 @@ for (int i = 0; i < quizItems.Length; i++)
 }
 
 if (counter < 0)
-    Console.WriteLine("Вы проиграли!");
+    Console.WriteLine("Вы проиграли!!");
 else
     Console.WriteLine("Вы выиграли!!!");
 
